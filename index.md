@@ -1,20 +1,11 @@
 # Welcome to my Github Page!
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to my page</title>
-</head>
-<body>
-    <h2>Try the Text-to-Speech AI app</h2>
-    <iframe
-        src="https://susanapfel-azureaitexttospeech.hf.space"
-        frameborder="0"
-        width="850"
-        height="450"
-    ></iframe>
 
-</body>
-</html>
+## Try the Text-to-Speech AI app
+<iframe
+    src="https://susanapfel-azureaitexttospeech.hf.space"
+    frameborder="0"
+    width="850"
+    height="450"
+></iframe>
+
