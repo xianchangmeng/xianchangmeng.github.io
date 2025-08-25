@@ -1,3 +1,7 @@
+<head>
+    <meta charset="UTF-8">
+    <title>My ML Projects</title>  <!-- Change from username to your desired title -->
+</head>
 # Welcome to my Github Page!
 
 
