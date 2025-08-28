@@ -9,7 +9,7 @@
 ## Try the Text-to-Speech AI app
 ### *This is an AI app running on Huggingface Spaces with backend Azure AI services*
 
-<div style="width:80%; margin:0 auto;">
+<div style="width:90%; margin-left:0 auto;">
 <iframe 
     src="https://susanapfel-azureaitexttospeech.hf.space"
     style="width:100%; aspect-ratio:16/9; border:none; border-radius:8px;">
